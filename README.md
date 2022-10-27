@@ -7,3 +7,4 @@ Utilizar todas as tags explicadas nas aulas: h1 até h6, p, mark, small, i, u, s
 Utilizar novas tags sugeridas: font, del, p, abbr (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto).
 </p>
 
+Acesse o projeto aqui: https://iurysalino.github.io/curso-html-dio/
